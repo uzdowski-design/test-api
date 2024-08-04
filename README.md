@@ -1,1 +1,1 @@
-Code for **Binary Brain** blog post https://www.binarybrain.dev/blog/first-api/
+Code for **Binary Brain** blog article https://www.binarybrain.dev/blog/first-api/
